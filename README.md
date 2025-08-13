@@ -94,4 +94,4 @@ Example Screenshot:
 This project is open source and free to use for learning and fun.
 👤 Author
 
-    Your Name — GitHub
+    KayMaster616 — GitHub
